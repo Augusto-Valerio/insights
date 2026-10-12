@@ -1,4 +1,4 @@
-<h1 align="center">InsightsTOTVS</h1>
+<h1 align="center">Insights</h1>
 
 <p align="center">
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -16,7 +16,7 @@
 
 ## Projeto
 
-O **InsightsTOTVS** é uma aplicação desenvolvida em **Java puro** para analisar transcrições de reuniões entre a TOTVS e seus clientes.
+O **Insights** é uma aplicação desenvolvida em **Java puro** para analisar transcrições de reuniões entre a TOTVS e seus clientes.
 
 A solução permite cadastrar dados do cliente, reunião, participantes e transcrição da conversa. A partir do texto informado, o sistema identifica termos relevantes, riscos e oportunidades comerciais, gerando um relatório com insights, prioridade, causa provável, potencial de ganho e ação recomendada.
 
